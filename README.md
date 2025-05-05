@@ -1,4 +1,4 @@
-# PP4
+# PP5
 
 ## Goal
 
@@ -62,7 +62,7 @@ In this exercise you will:
    ```bash
    git remote add origin-ssh youruser@vorlesungsserver:~/repos/myproject.git
    ```
-3. Push your `main` branch to `origin-ssh`, then clone it into a fresh directory to verify.
+3. Push your `master` branch to `origin-ssh`, then clone it into a fresh directory to verify.
 
 **Your Commands & Output**
 
@@ -97,8 +97,8 @@ In this exercise you will:
 ### Task 4: Fork, Modify, and Pull/Merge Request
 
 1. On GitHub, **fork** one of the repos from the STEMgraph org.
-2. Clone your fork locally, create a branch `pp4-changes`, and make a small change (e.g., update the README).
-3. Commit and push `pp4-changes` to **your** fork, then open a **Pull Request** against the original repo.
+2. Clone your fork locally, create a branch `pp5-changes`, and make a small change (e.g., update the README).
+3. Commit and push `pp5-changes` to **your** fork, then open a **Pull Request** against the original repo.
 4. Repeat on THGA GitLab: fork another students repository, clone, branch, change, push, and open a **Merge Request**. If your peers opened a merge request to your repository, review and merge or decline it!
 
 **Your PR/MR Links & Descriptions**
