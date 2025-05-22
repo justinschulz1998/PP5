@@ -43,8 +43,21 @@ In this exercise you will:
 **Your Commands & Output**
 
 ```bash
-# Paste here the sequence of git commands you ran
-# and the relevant terminal output (e.g., branch listing, merge messages)
+git status, git commit -m "1" , git config --global user.name "justin schulz" , git config --global user.email "justinschulz2014hotmail.de", git checkout -b master, git add feature.txt
+On branch feature-1
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   feature.txt
+
+[master (root-commit) c3f3352] 1
+ 1 file changed, 1 insertion(+)
+ create mode 100644 feature.txt
+
+On branch master
+nothing to commit, working tree clean
 ```
 
 ---
