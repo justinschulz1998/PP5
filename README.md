@@ -80,8 +80,20 @@ nothing to commit, working tree clean
 **Your Commands & Output**
 
 ```bash
-# Paste here the push & clone commands and outputs
+
 ```
+git clone pi@169.254.104.87:~/repos/myproject.git myproject_new, git push origin-ssh master, git remote add origin-ssh pi@169.254.104.87:~/repos/myproject.git, mkdir -p ~/repos/myproject.git && cd ~/repos/myproject.git && git init --bare
+
+Cloning into 'myproject_new'...
+remote: Objekte aufzählen: 3, Fertig.
+remote: Zähle Objekte: 100% (3/3), Fertig.
+remote: Komprimiere Objekte: 100% (2/2), Fertig.
+remote: Gesamt 3 (Delta 0), Wiederverwendet 0 (Delta 0)
+Receiving objects: 100% (3/3), done.
+
+Everything up-to-date
+
+
 
 ---
 
